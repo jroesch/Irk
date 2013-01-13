@@ -18,8 +18,6 @@ import Data.Text (Text, unpack, pack)
 import Control.Monad (forever)
 import Control.Exception
 
-import Irk.Message
-import Irk.Connection
 import Irk.Server
 
 
