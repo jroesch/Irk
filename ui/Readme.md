@@ -1,0 +1,4 @@
+- implement chat interface as a webpage
+- use nodewebkit
+- use ghcjs as it becomes more usuable so that we can write Haskell top to bottom
+- we can always go native when the time comes
