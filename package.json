@@ -1,0 +1,12 @@
+{
+  "name": "irk-ui",
+  "main": "index.html",
+  "window": {
+    "title": "Irk",
+    "toolbar": false,
+    "min_width": 420,
+    "max_width": 420,
+    "width": 420,
+    "height": 750
+  }
+} 
