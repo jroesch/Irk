@@ -1,0 +1,46 @@
+* {
+  -webkit-user-select: none;
+}
+
+body {
+    margin: 0px;
+    font-family: Lato, sans-serif;
+    font-size: 16px;
+}
+
+h1, h2 {
+    margin: 0px;
+}
+
+#topbar {
+    background-color: #E74C3C; 
+    color: white;
+    padding: 15px; 
+    padding-left: 200px;
+    padding-right: 0px;
+}
+
+#window {
+    color: #34495E;
+    width: 420px;
+    height: 100%;
+    /* border: 1px red solid; */
+}
+
+#user-list {
+    background-color: #ECF0F1;
+    float: left;
+    height: 750px;
+    width: 165px;
+    padding-left: 10px;
+}
+
+#content {}
+
+.chat-window {
+    padding: 25px;
+    border-bottom: 1px #ECF0F1 solid;
+    min-height: 85px;
+}
+
+
